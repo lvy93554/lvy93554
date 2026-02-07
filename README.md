@@ -8,11 +8,11 @@ Welcome here. I'am Lvy93554!
 ![](https://img.shields.io/badge/-CI/CD-blue?style=flat-square&logo=CI/CD)
 
 
-[![lvy93554's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvy93554)](https://github.com/lvy93554/github-readme-stats)
+[![lvy93554's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvy93554)](https://github.com/anuraghazra/github-readme-stats)
 
 ![lvy93554's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvy93554&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvy93554&layout=compact)](https://github.com/lvy93554/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvy93554&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
