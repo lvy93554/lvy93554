@@ -8,13 +8,6 @@ Welcome here. I'am Lvy93554!
 ![](https://img.shields.io/badge/-CI/CD-blue?style=flat-square&logo=CI/CD)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvy93554&layout=compact)](https://github.com/lvy93554/github-readme-stats)
-
-[![lvy93554's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvy93554&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/lvy93554/github-readme-stats)
-
-[![lvy93554's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lvy93554&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lvy93554/github-readme-stats#gh-dark-mode-only)
-<!-- [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lvy93554&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lvy93554/github-readme-stats#gh-light-mode-only) -->
-
 
 
 
